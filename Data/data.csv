@@ -1,0 +1,52 @@
+﻿id,abbr,state,belowPoverty,dentalVisit
+1,AL,Alabama,19.3,40
+2,AK,Alaska,11.2,35.6
+3,AZ,Arizona,18.2,41
+4,AR,Arkansas,18.9,42.9
+5,CA,California,16.4,34.9
+6,CO,Colorado,12,33
+7,CT,Connecticut,10.8,25.1
+8,DE,Delaware,12.5,33.5
+9,DC,District of Columbia,17.7,29.2
+10,FL,Florida,16.5,38.1
+11,GA,Georgia,18.3,39.5
+12,HI,Hawaii,11.4,28.4
+13,ID,Idaho,14.8,35.7
+14,IL,Illinois,14.4,36.1
+15,IN,Indiana,15.2,38.5
+16,IA,Iowa,12.2,30.6
+17,KS,Kansas,13.6,32.7
+18,KY,Kentucky,19.1,39
+19,LA,Louisiana,19.8,41.7
+20,ME,Maine,14.1,36.4
+21,MD,Maryland,10.1,29.8
+22,MA,Massachusetts,11.6,25.3
+23,MI,Michigan,16.2,31.4
+24,MN,Minnesota,11.5,27.4
+25,MS,Mississippi,21.5,43.2
+26,MO,Missouri,15.5,41.4
+27,MT,Montana,15.4,37.4
+28,NE,Nebraska,12.4,33.6
+29,NV,Nevada,15.2,40.1
+30,NH,New Hampshire,9.2,30.6
+31,NJ,New Jersey,11.1,29.9
+32,NM,New Mexico,21.3,38.7
+33,NY,New York,15.9,32.7
+34,NC,North Carolina,17.2,35.8
+35,ND,North Dakota,11.5,34.5
+36,OH,Ohio,15.8,34.7
+37,OK,Oklahoma,16.6,43.2
+38,OR,Oregon,16.6,34.3
+39,PA,Pennsylvania,13.6,33.2
+40,RI,Rhode Island,14.3,27.9
+41,SC,South Carolina,18,41.7
+42,SD,South Dakota,14.2,29.5
+43,TN,Tennessee,18.3,41.7
+44,TX,Texas,17.2,41.9
+45,UT,Utah,11.7,31.1
+46,VT,Vermont,12.2,27.8
+47,VA,Virginia,11.8,30.7
+48,WA,Washington,13.2,33.1
+49,WV,West Virginia,18.3,45.8
+50,WI,Wisconsin,13.2,29.9
+51,WY,Wyoming,11.2,35
